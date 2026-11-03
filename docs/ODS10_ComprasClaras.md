@@ -20,7 +20,7 @@ Se realizaron encuestas a personas con discapacidad visual en Pachuca, Hidalgo. 
   El 20 % señaló que acudía solo a comprar alimentos.
   El 80 % restante acudía acompañado o tenía otras modalidades de apoyo.
   
-Esto indica que no hay autonomía por parte de las personas con discapacidad visual de gado ceguera.
+Esto indica que no hay autonomía por parte de las personas con discapacidad visual de grado ceguera en cosas sencillas para nosotros como comprar la despensa.
 
 # Roles iniciales asignados en el equipo.
 - Seany Yunuén - Product Owner (PO)
