@@ -25,7 +25,7 @@ Esto indica que no hay autonomía por parte de las personas con discapacidad vis
 # Roles iniciales asignados en el equipo.
 - Seany Yunuén - Product Owner (PO)
 - Diego Escuder - Líder Técnico (Tech Lead)
-- Desarrollador UI (Interfaz de Usuario)
-- Desarrollador de Datos (API)
+- Fernanda Mercado - Desarrollador UI (Interfaz de Usuario)
+- Fernanda Mercado - Desarrollador de Datos (API)
 - Luz Gabriela - QA / Analista de prueba 
 
