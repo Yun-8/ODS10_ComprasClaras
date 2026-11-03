@@ -3,7 +3,7 @@ ODS 10 : Reducción de las Desigualdades
 # Problema específico que pretenden abordar.
 Nuestra aplicación está dirigida a personas con discapacidad visual para que puedan ir a un supermercado a comprar su despensa por su cuenta y que logren ser independientes. La aplicación se le vende directamente a la empresa y cada una registra su lista de productos disponible.
 
-![Persona con discapacidad visual haciendo compras](https://gndiario.com/sites/default/files/noticias/MyBudgetQR.jpg)}
+![Persona con discapacidad visual haciendo compras](https://gndiario.com/sites/default/files/noticias/MyBudgetQR.jpg)
 
 # Población objetivo y por qué es relevante.
 Las personas con discapacidad visual enfrentan complicaciones para detectar productos al realizar sus compras, tales como, consultar información relevante como fecha de caducidad, ingredientes, precios, etc. Lo que genera dependencia en otras personas y reduce su autonomía de tomar decisiones, en algo tan simple como su consumo.
