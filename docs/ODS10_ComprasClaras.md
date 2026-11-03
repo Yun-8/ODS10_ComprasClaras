@@ -1,7 +1,7 @@
 # ODS elegido (nombre y número).
 ODS 10 : Reducción de las Desigualdades
 # Problema específico que pretenden abordar.
-Nuestra aplicación está dirigida a personas con discapacidad visual para que puedan ir a un supermercado a comprar su despensa por su cuenta y que logren ser independientes. La aplicación se le vende directamente a la empresa y cada una registra su lista de productos disponible.
+Nuestra aplicación busca que las personas con discapacidad visual sean un poco más autónomas y que puedan ir a un supermercado a comprar la despensa por su cuenta. La aplicación se le vende directamente a la empresa y cada una registra su lista de productos disponible.
 
 ![Persona con discapacidad visual haciendo compras](https://gndiario.com/sites/default/files/noticias/MyBudgetQR.jpg)
 
