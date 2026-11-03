@@ -1,1 +1,3 @@
-# ODS10_ComprasClaras
+# Proyecto Pensamiento Algorítmico
+
+Zeanie, Gaby, Diego, Fernanda
