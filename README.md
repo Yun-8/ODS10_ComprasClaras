@@ -1,3 +1,3 @@
 # Proyecto Pensamiento Algorítmico
 
-Zeanie, Gaby, Diego, Fernanda
+Seany, Gaby, Diego, Fernanda
