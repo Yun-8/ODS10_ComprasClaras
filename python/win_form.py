@@ -3,18 +3,16 @@ from tkinter import ttk, filedialog, messagebox
 
 def open_win_form(parent: tk.Tk):
     win = tk.Toplevel(parent)
-    win.title("Formulario")
+    win.title("Escanear")
     win.geometry("420x260")
     frm = ttk.Frame(win, padding=16)
     frm.pack(fill="both", expand=True)
 
-    ttk.Label(frm, text="Nombre:").grid(row=0, column=0, sticky="w")
-    ent_nombre = ttk.Entry(frm, width=28)
-    ent_nombre.grid(row=0, column=1, pady=4)
+    ttk.Label(frm, text="Escanear Producto:").grid(row=0, column=0, sticky="w")
+    
 
-    ttk.Label(frm, text="Edad:").grid(row=1, column=0, sticky="w")
-    ent_edad = ttk.Entry(frm, width=10)
-    ent_edad.grid(row=1, column=1, sticky="w", pady=4)
+    ttk.Label(frm, text="Producto:").grid(row=1, column=0, sticky="w")
+ 
 
     def validar_y_guardar():
         nombre = ent_nombre.get().strip()
