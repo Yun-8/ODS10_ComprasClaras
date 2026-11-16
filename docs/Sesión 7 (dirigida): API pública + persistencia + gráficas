@@ -1,9 +1,0 @@
-Sesión 7 Capturas y explicación de los cambios 
-Luz Gabriela Sánchez Juárez 
-Cambios:
-Ciudad: cambié latitude y longitude por las de Guadalajara. Así la API devuelve el clima de esa ciudad y no el de León.
-Parámetro y rango: pedí velocidad del viento (windspeed_10m) en lugar de temperatura, y 3 días atrás (past_days=3) en lugar de 1. Cambié también la línea que lee los datos, para que busque windspeed_10m. Sin ese cambio daría error.
-Estilo de la línea: marker="s" pone cuadritos en cada punto, linewidth hace la línea más gruesa y alpha la hace un poco transparente. En las barras, color y alpha cambian su color y transparencia.
-Rejilla: ax.grid(True, linestyle="--", alpha=.5) dibuja cuadrícula punteada de fondo, para leer mejor los valores.
-Títulos y unidades: cambié los textos a “Velocidad del viento” y “km/h”, para que coincidan con los datos nuevos.
-
